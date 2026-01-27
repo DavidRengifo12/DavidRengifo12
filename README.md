@@ -24,7 +24,7 @@ Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo co
 ## Contact
 [![Linkedin Badge](https://img.shields.io/badge/-davidsan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi321/)](https://www.linkedin.com/in/san2230/)
 [![Gmail Badge](https://img.shields.io/badge/-davidsantiagorengifoguacheta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidsantiagorengifoguacheta@gmail.com)](mailto:davidsantiagorengifoguacheta@gmail.com)
-<a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 
 
 
