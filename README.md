@@ -4,7 +4,7 @@
 
 Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo constantemente y perfeccionando mis habilidades en React, Node.js, TypeScript, bases de datos y herramientas modernas de desarrollo. Busco aportar valor a través de soluciones tecnológicas que integren innovación, calidad y funcionalidad.
 [![Linkedin Badge](https://img.shields.io/badge/-khushiSaxena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi321/)](https://www.linkedin.com/in/khushi321/)
-[![Gmail Badge](https://img.shields.io/badge/-KhushiSaxena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khushisaxenaa32@gmail.com)](mailto:khushisaxenaa32@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-KhushiSaxena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidsantiagorengifoguacheta@gmail.com)](mailto:khushisaxenaa32@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://khushi0321.github.io/portfolio/#/)
 
 
@@ -13,8 +13,7 @@ Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo co
 
 ### Language :
 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
