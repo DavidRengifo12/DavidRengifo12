@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack;Software%20Developer;Always%20learning%20new%20things;Participante%20SenaSoft%20if%20Year%2020%2025!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack;Software%20Developer;Always%20learning%20new%20things;Participante%20SenaSoft%20Year%2020%2025!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 
@@ -22,12 +22,14 @@
 
 Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo constantemente y perfeccionando mis habilidades en React, Node.js, TypeScript, bases de datos y herramientas modernas de desarrollo. Busco aportar valor a través de soluciones tecnológicas que integren innovación, calidad y funcionalidad.</em></p>
 
-## <div align="center">Contact</div>
+## <div align="center" width = 30px>Contact</div>
+
+<div aling="center" width="30px">
 [![Linkedin Badge](https://img.shields.io/badge/-davidsan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi321/)](https://www.linkedin.com/in/san2230/)
 [![Gmail Badge](https://img.shields.io/badge/-davidsantiagorengifoguacheta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidsantiagorengifoguacheta@gmail.com)](mailto:davidsantiagorengifoguacheta@gmail.com)</p>
 <p><img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"La vida está llena de decisiones… ¡elige sabiamente!"</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
-
+</div>
 
 
 ## ⚡ Technologies
