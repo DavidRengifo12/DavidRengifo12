@@ -90,6 +90,40 @@ Pensamiento: "La vida está llena de decisiones… ¡elige sabiamente!"</i></b> 
 
 <br>
 
+### 💳 Github Profile Summary Card
+ 
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidrengifo12&theme=github_dark)
+  
+</div>
+ 
+---
+
+### ⏱ Streak Stats
+ 
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidrengifo12&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+</div>
+ 
+---
+
+### 📈 Activity Graph
+ 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davidrengifo12&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 📊 Most Used Languages
+
+<div align="center">
+  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=davidrengifo12&show_icons=true&locale=en&layout=compact&theme=radical)]()
+  
+</div>
+
 
 -----
 Credits: [Khushi Saxena](https://github.com/Khushi0321)
