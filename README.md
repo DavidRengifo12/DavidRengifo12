@@ -20,9 +20,11 @@
  Desarrolador web Full Stack, apasionado por la tecnología. Me especializo en el desarrollo de aplicaciones web y móviles, combinando creatividad y eficiencia para crear soluciones innovadoras que generen un impacto real. Disfruto enfrentando desafíos complejos y aplicando nuevas tecnologías y frameworks para optimizar procesos y mejorar la experiencia del usuario.
 
 Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo constantemente y perfeccionando mis habilidades en React, Node.js, TypeScript, bases de datos y herramientas modernas de desarrollo. Busco aportar valor a través de soluciones tecnológicas que integren innovación, calidad y funcionalidad.
+
+## Contact
 [![Linkedin Badge](https://img.shields.io/badge/-davidsan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi321/)](https://www.linkedin.com/in/san2230/)
 [![Gmail Badge](https://img.shields.io/badge/-davidsantiagorengifoguacheta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidsantiagorengifoguacheta@gmail.com)](mailto:davidsantiagorengifoguacheta@gmail.com)
-
+<a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 
 
 
