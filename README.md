@@ -37,7 +37,7 @@ Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo co
 
 ## <div align="center" width = 50px>⚡ Technologies</div>
 
-### <picture align= "center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = "50px" align= "center">  </picture> Programming languages
+### <picture align= "center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = "50px" align= "center">  Programming languages </picture>
 
 <p align="center"> 
   &emsp; 
