@@ -1,9 +1,4 @@
-<div align="center">
-## <h2>
-    Hola
-    <img src="https://raw.githubusercontent.com/DavidRengifo12/DavidRengifo12/main/gifs/Hi.gif" width="30px">
-  </h2>
-</div>
+## <div align='center'> Que dice la people, soy Santiago! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></div>
 
 <div align="center" width="50">
 
@@ -17,7 +12,7 @@
 
 
 
-## <div align='center'> Que dice la people, soy Santiago! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></div>
+
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
