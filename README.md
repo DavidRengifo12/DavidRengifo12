@@ -22,7 +22,7 @@
 
 Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo constantemente y perfeccionando mis habilidades en React, Node.js, TypeScript, bases de datos y herramientas modernas de desarrollo. Busco aportar valor a través de soluciones tecnológicas que integren innovación, calidad y funcionalidad.</em></p>
 
-## <div align="center" width = 30px>Contact</div>
+## <div align="center" width = 50px>Contact</div>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-davidsan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi321/)](https://www.linkedin.com/in/san2230/)
@@ -32,9 +32,7 @@ Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo co
 
 
 
-## ⚡ Technologies
-
-### Language :
+## <div align="center" width = 50px>⚡ Technologies</div>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
