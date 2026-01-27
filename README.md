@@ -17,14 +17,16 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
- Desarrolador web Full Stack, apasionado por la tecnología. Me especializo en el desarrollo de aplicaciones web y móviles, combinando creatividad y eficiencia para crear soluciones innovadoras que generen un impacto real. Disfruto enfrentando desafíos complejos y aplicando nuevas tecnologías y frameworks para optimizar procesos y mejorar la experiencia del usuario.
+ <p><em>Desarrolador web Full Stack, apasionado por la tecnología. Me especializo en el desarrollo de aplicaciones web y móviles, combinando creatividad y eficiencia para crear soluciones innovadoras que generen un impacto real. Disfruto enfrentando desafíos complejos y aplicando nuevas tecnologías y frameworks para optimizar procesos y mejorar la experiencia del usuario.
 
-Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo constantemente y perfeccionando mis habilidades en React, Node.js, TypeScript, bases de datos y herramientas modernas de desarrollo. Busco aportar valor a través de soluciones tecnológicas que integren innovación, calidad y funcionalidad.
+Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo constantemente y perfeccionando mis habilidades en React, Node.js, TypeScript, bases de datos y herramientas modernas de desarrollo. Busco aportar valor a través de soluciones tecnológicas que integren innovación, calidad y funcionalidad.</em></p>
 
 ## Contact
 [![Linkedin Badge](https://img.shields.io/badge/-davidsan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi321/)](https://www.linkedin.com/in/san2230/)
-[![Gmail Badge](https://img.shields.io/badge/-davidsantiagorengifoguacheta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidsantiagorengifoguacheta@gmail.com)](mailto:davidsantiagorengifoguacheta@gmail.com)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
+[![Gmail Badge](https://img.shields.io/badge/-davidsantiagorengifoguacheta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidsantiagorengifoguacheta@gmail.com)](mailto:davidsantiagorengifoguacheta@gmail.com)</p>
+<p><img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : 
+Pensamiento: "La vida está llena de decisiones… ¡elige sabiamente!"</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
 
 
 
