@@ -25,11 +25,11 @@ Disfruto enfrentar desafíos y transformar ideas y necesidades en soluciones fun
 Me gusta mantenerme en constante aprendizaje, explorar nuevas tecnologías y frameworks, y perfeccionar continuamente mis habilidades. Actualmente desarrollo proyectos utilizando tecnologías como React, Node.js, TypeScript, bases de datos y herramientas modernas de desarrollo web y móvil.</em></p>
 
 
+
+## <div align="center"  width ="50px">⚡ Habilidades</div>
 <table>
 <tr>
 <td valign="top" width="65%">
-
-👨‍💻   **Desarrollador Web Full Stack**, apasionado por la tecnología, la innovación y la creación de soluciones reales.
 
 💡   **Creativo e innovador**, me gusta convertir ideas y necesidades en soluciones funcionales, escalables y sostenibles.
 
@@ -49,7 +49,7 @@ Me gusta mantenerme en constante aprendizaje, explorar nuevas tecnologías y fra
 
 <td valign="top" align="center" width="35%">
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400"/>
 
 </td>
 </tr>
