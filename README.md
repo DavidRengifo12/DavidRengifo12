@@ -58,23 +58,35 @@ Me gusta mantenerme en constante aprendizaje, explorar nuevas tecnologías y fra
 
 
 
-## <div align="center"  width ="50px">⚡ Tecnologias que uso</div>
+## <div align="center">⚡ Tecnologías que uso</div>
 
-<!--tech stack icons-->
+<!-- Technologies icons -->
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,flutter,tailwind,mui,postgres,mysql&perline=13" />
   </a>
 </p>
 
-<p align="center"><img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"La tecnología es como ella: complicada, pero entre errores y aprendizajes, termina siendo divertida.!"</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+<br>
+
+## <div align="center">🛠️ Herramientas que uso</div>
+
+<!-- Tools icons -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,cursor,androidstudio,postman,figma,docker&perline=9" />
+  </a>
 </p>
 
-### Libraries & Framework :
+<br>
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+<p align="center">
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" />
+  <b><i>"La tecnología es como ella: complicada, pero entre errores y aprendizajes, termina siendo divertida."</i></b>
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
 
 ### Tools:
 
