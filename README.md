@@ -14,15 +14,17 @@
 
 
 
-## <div align="center"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me</div>
+## <div align="center"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> I'm </div>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
- <p><em>Desarrolador web Full Stack, apasionado por la tecnología. Me especializo en el desarrollo de aplicaciones web y móviles, combinando creatividad y eficiencia para crear soluciones innovadoras que generen un impacto real. Disfruto enfrentando desafíos complejos y aplicando nuevas tecnologías y frameworks para optimizar procesos y mejorar la experiencia del usuario.
+ <p><em>Desarrollador Web Full Stack, apasionado por la tecnología, la innovación y la creación de soluciones que generen un impacto real. Me enfoco en crear e innovar productos digitales reales, escalables y sostenibles, adaptados a las necesidades de cada proyecto y usuario.
 
-Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo constantemente y perfeccionando mis habilidades en React, Node.js, TypeScript, bases de datos y herramientas modernas de desarrollo. Busco aportar valor a través de soluciones tecnológicas que integren innovación, calidad y funcionalidad.</em></p>
+Disfruto enfrentar desafíos y transformar ideas y necesidades en soluciones funcionales, eficientes y con potencial de crecimiento. Me interesa no solo desarrollar software, sino aportar soluciones que optimicen procesos, resuelvan problemas y mejoren la experiencia de los usuarios.
 
-## <div align="center" width = "50px">Contact</div>
+Me gusta mantenerme en constante aprendizaje, explorar nuevas tecnologías y frameworks, y perfeccionar continuamente mis habilidades. Actualmente desarrollo proyectos utilizando tecnologías como React, Node.js, TypeScript, bases de datos y herramientas modernas de desarrollo web y móvil.</em></p>
+
+## <div align="center" width = "50px">Contacto</div>
 
 
 
@@ -30,14 +32,14 @@ Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo co
 
 [![Gmail Badge](https://img.shields.io/badge/-davidsantiagorengifoguacheta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidsantiagorengifoguacheta@gmail.com)](mailto:davidsantiagorengifoguacheta@gmail.com)
 
-<p align="center"><img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"La vida está llena de decisiones… ¡elige sabiamente!"</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+<p align="center"><img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"La tecnología es como ella: complicada, pero entre errores y aprendizajes, termina siendo divertida.!"</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 
 
 
-## <div align="center" width = 50px>⚡ Technologies</div>
+## <div align="center" width = 50px>⚡ Technologias</div>
 
-### <picture align= "center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = "50px" align= "center">  Programming languages </picture>
+### <picture align= "center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = "50px" align= "center"> Lenguajes que uso </picture>
 
 <p align="center"> 
   &emsp; 
