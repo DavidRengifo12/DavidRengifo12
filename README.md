@@ -24,20 +24,31 @@ Disfruto enfrentar desafíos y transformar ideas y necesidades en soluciones fun
 
 Me gusta mantenerme en constante aprendizaje, explorar nuevas tecnologías y frameworks, y perfeccionar continuamente mis habilidades. Actualmente desarrollo proyectos utilizando tecnologías como React, Node.js, TypeScript, bases de datos y herramientas modernas de desarrollo web y móvil.</em></p>
 
-## <div align="center" width = "50px">Contacto</div>
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+<p align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-davidsan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi321/)](https://www.linkedin.com/in/san2230/)
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/david-santiago-rengifo-guacheta-32823b428?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/DavidRengifo12">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/dsr_.30?stkn=MTUwbWNqcW5tMW4xdw%3D%3D&utm_source=qr">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
 
-[![Gmail Badge](https://img.shields.io/badge/-davidsantiagorengifoguacheta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidsantiagorengifoguacheta@gmail.com)](mailto:davidsantiagorengifoguacheta@gmail.com)
+</p>
+
 
 <p align="center"><img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"La tecnología es como ella: complicada, pero entre errores y aprendizajes, termina siendo divertida.!"</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 
 
 
-## <div align="center" width = 50px>⚡ Technologias</div>
+## <div align="center"  width ="50px">⚡ Technologias</div>
 
 ### <picture align= "center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = "50px" align= "center"> Lenguajes que uso </picture>
 
