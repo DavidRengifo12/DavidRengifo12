@@ -25,25 +25,35 @@ Disfruto enfrentar desafíos y transformar ideas y necesidades en soluciones fun
 Me gusta mantenerme en constante aprendizaje, explorar nuevas tecnologías y frameworks, y perfeccionar continuamente mis habilidades. Actualmente desarrollo proyectos utilizando tecnologías como React, Node.js, TypeScript, bases de datos y herramientas modernas de desarrollo web y móvil.</em></p>
 
 
-👨‍💻   **Desarrollador Web Full Stack**, apasionado por la tecnología, la innovación y la creación de soluciones digitales.
+<table>
+<tr>
+<td valign="top" width="65%">
 
-💡   **Me gusta crear e innovar**, transformando ideas y necesidades en productos reales, funcionales y escalables.
+👨‍💻   **Desarrollador Web Full Stack**, apasionado por la tecnología, la innovación y la creación de soluciones reales.
 
-🎓   **Actualmente continúo fortaleciendo mis conocimientos** en desarrollo web y móvil, aprendiendo constantemente nuevas tecnologías y herramientas.
+💡   **Creativo e innovador**, me gusta convertir ideas y necesidades en soluciones funcionales, escalables y sostenibles.
 
-🌱   **Estoy enfocado en seguir aprendiendo y mejorando**, especialmente en tecnologías como React, TypeScript, Node.js, bases de datos y Flutter.
+🤝   **Trabajo en equipo**, disfruto colaborar, compartir ideas y aportar al crecimiento de los proyectos.
 
-🤝   **Me gusta trabajar en equipo**, compartir conocimientos y aportar ideas que ayuden a alcanzar mejores resultados.
+🧠   **Autodidacta**, tengo la iniciativa de investigar y aprender nuevas tecnologías de manera independiente.
 
-🧠   **Soy autodidacta y curioso**, disfruto investigar, enfrentar nuevos retos y aprender de cada proyecto.
+🌱   **Aprendizaje continuo**, siempre busco mejorar mis conocimientos, aprender nuevas herramientas y perfeccionar mis habilidades.
 
-🚀   **Mi objetivo es seguir creciendo como desarrollador**, alcanzar un alto nivel de excelencia y participar en proyectos donde pueda crear soluciones reales que generen impacto.
+🧩   **Resolución de problemas**, me gusta enfrentar desafíos y buscar soluciones eficientes a diferentes necesidades.
 
-💬   **Siempre estoy abierto a aprender, compartir ideas y conversar sobre tecnología.**
+🚀   **Proactivo y comprometido**, busco aportar valor y mejorar constantemente la calidad de lo que construyo.
 
-<div align="right">
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350"/>
-</div>
+🎯   **Orientado al crecimiento**, mi objetivo es seguir desarrollándome profesionalmente y alcanzar un alto nivel de excelencia.
+
+</td>
+
+<td valign="top" align="center" width="35%">
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 
 
