@@ -88,57 +88,70 @@ Me gusta mantenerme en constante aprendizaje, explorar nuevas tecnologías y fra
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 
-### Tools:
-
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-
-## 📈 Stats
+## <div align="center">🏆 Logros & Proyectos</div>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Siempre+aprendiendo+%F0%9F%9A%80;Siempre+creando+%F0%9F%92%BB;Siempre+buscando+mejorar+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Khushi0321&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi0321&theme=tokyonight" />
+### 🥇 SenaSoft 2025
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SenaSoft-2025-red?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</p>
+
+> 🎯 **Participante de SenaSoft 2025**, seleccionado entre múltiples aprendices para representar al **Centro de Teleinformática y Producción Industrial (CTPI) del SENA Cauca**.
+
+Esta experiencia me permitió poner a prueba mis conocimientos, enfrentar nuevos retos de desarrollo y fortalecer mis habilidades técnicas y de trabajo en equipo.
+
+---
+
+### 🗳️ SIGEVA — Sistema de Gestión de Elecciones y Votaciones
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Proyecto-SIGEVA-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge" />
+</p>
+
+**SIGEVA** es un sistema de votación desarrollado para procesos electorales institucionales del SENA, diseñado para ofrecer una experiencia **transparente, segura y usable durante la jornada electoral**.
+
+#### ✨ Características
+
+* 🔐 **Autenticación de usuarios**
+* 👥 **Gestión de roles y permisos**
+* 🗳️ **Voto único por participante**
+* 📊 **Consolidación y visualización de resultados**
+* 👤 **Actualización y gestión de perfiles**
+* 🎯 **Selección y registro de candidatos**
+* 📈 **Conteo y actualización de votos**
+* 🏫 Pensado para adaptarse a diferentes centros de formación
+* 🔎 Enfoque en transparencia y trazabilidad del proceso electoral
+
+#### 💻 Desarrollo
+
+| Área              | Tecnología |
+| ----------------- | ---------- |
+| 📱 Mobile         | Kotlin     |
+| 🎨 Frontend       | React      |
+| ⚙️ Backend        | Next.js    |
+| 🗄️ Base de datos | PostgreSQL |
+| ☁️ Servicios      | Supabase   |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,react,nextjs,postgres,supabase&perline=5" />
 </p>
 
 <br>
 
-### 💳 Github Profile Summary Card
- 
-<div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidrengifo12&theme=github_dark)
-  
-</div>
- 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidRengifo12&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidRengifo12&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-### ⏱ Streak Stats
- 
-<div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidrengifo12&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DavidRengifo12&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</p>
 
-</div>
- 
----
-
-### 📈 Activity Graph
- 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davidrengifo12&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 📊 Most Used Languages
-
-<div align="center">
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=davidrengifo12&show_icons=true&locale=en&layout=compact&theme=radical)]()
-  
-</div>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
